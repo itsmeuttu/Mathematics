@@ -18,12 +18,9 @@ Note: Zero is called called zero integer.
 
 ```mermaid
 flowchart TB
-A[Integers] --> B[Positive Integer
-1, 2, 3, 4....]
-A --> C[Zero 
-0]
-A --> D[Negative integers
--1, -2 , -3 ...]
+A[Integers] --> B[Positive Integer eg: 1, 2..]
+A --> C[Zero]
+A --> D[Negative integers eg -1, -2 , -3 ...]
 ```
 <h3> Prime Numbers</h3>
 A natural number other than 1, which has no other factor exept 1 and itself, is called prime number.
