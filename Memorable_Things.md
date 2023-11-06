@@ -22,7 +22,7 @@
 - $\sqrt{289}$ = 17
 - $\sqrt{324}$ = 18
 - $\sqrt{361}$ = 19
-- $\sqrt{400}$ = 20
+- $ \sqrt{400}$ = 20
 
 ### Cube of Some numbers
 
